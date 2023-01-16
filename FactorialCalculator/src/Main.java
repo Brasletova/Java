@@ -12,4 +12,4 @@ public class Main {
 
         System.out.println("Факториал вашего числа: " + factorial);
     }
-}12
+}
