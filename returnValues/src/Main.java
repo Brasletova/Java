@@ -5,8 +5,7 @@ public class Main {
     }
 
     public static int calculateSum(int a, int b, int c) {
-        int sum = a + b + c;
-        return sum;
+        return sum = a + b + c;
     }
 
 
